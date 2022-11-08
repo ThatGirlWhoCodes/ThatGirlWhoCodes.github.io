@@ -38,7 +38,7 @@ ___
 
 ---
 
-[Mablib](/Sample_page2)
+[Mablib](/Sample_page3)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
