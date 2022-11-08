@@ -36,7 +36,8 @@ ___
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Coming Soon](/pdf/sample_presentation.pdf)
+
+[Coming Soon](/sample_page)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
