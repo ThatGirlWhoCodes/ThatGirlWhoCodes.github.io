@@ -11,8 +11,8 @@ Chicago based programmer and UX designer currently studying at Columbia College 
 
 ### Contact
 
-(708) 308 8294
-GiannaG_Dimperio@icloud.com
+- (708) 308 8294
+- GiannaG_Dimperio@icloud.com
 
 ---
 
