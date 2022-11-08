@@ -1,4 +1,4 @@
-## Portfolio
+## Programming Portfolio
 
 ---
 
@@ -38,8 +38,13 @@ ___
 
 ---
 
-[Coming Soon](/Sample_page2)
+[Mablib](/Sample_page2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+[Coming Soon](/Sample_page2)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+___
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
