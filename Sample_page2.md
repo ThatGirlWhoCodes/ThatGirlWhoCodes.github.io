@@ -2,7 +2,7 @@
 
 ## Coming Soon
 
-**Project description:** A C# console application, assigned in Programming 101. The Mag. Mile: Zombie Apocalypse is a game located in the city of Chicago, IL where you (the user) is the vigilante attempting to save the city.
+**Project description:** 
 
 ### 1. 
 
