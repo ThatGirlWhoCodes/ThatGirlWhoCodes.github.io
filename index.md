@@ -6,8 +6,22 @@
 
 Chicago based programmer and UX designer currently studying at Columbia College Chicago. A passionate, collaborative and driven teammate who is easily adaptable to different styles and environments.
 
-
 ---
+
+### Skills
+
+Beginner Programmer; Programming Language(s): C#
+
+Well-rounded experience in: Adobe, Microsoft 
+___
+
+### Education
+
+- Visual Design Certified through Full Sail University (2021 – 2022)
+
+- Major: Batchelor of Arts in User Experience & Interaction Design, Minor: Programming (Current)
+
+___
 
 ### Contact
 
@@ -17,6 +31,7 @@ Chicago based programmer and UX designer currently studying at Columbia College 
 ---
 
 ### Content
+
 [Adventure Game](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
