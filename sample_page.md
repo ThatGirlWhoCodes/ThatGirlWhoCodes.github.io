@@ -1,6 +1,8 @@
-## This can be your internal website page / project page
+### Adventure Game
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## The Magnificent Mile: Zombie Apocalypse
+
+**Project description:** A C# console application, assigned in Programming 101. The Mag. Mile: Zombie Apocalypse is a game located in the city of Chicago, IL where you (the user) is the vigilante attempting to save the city.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
