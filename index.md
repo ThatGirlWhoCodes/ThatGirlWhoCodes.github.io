@@ -13,6 +13,7 @@ Chicago based programmer and UX designer currently studying at Columbia College 
 Beginner Programmer; Programming Language(s): C#
 
 Well-rounded experience in: Adobe, Microsoft 
+
 ___
 
 ### Education
@@ -37,7 +38,7 @@ ___
 
 ---
 
-[Coming Soon](/sample_page)
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
