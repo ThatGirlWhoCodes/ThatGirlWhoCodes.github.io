@@ -24,7 +24,11 @@ if (isAwesome){
 
 ### 3. Collection of Data ((DELETE BEFORE TURN IN) ARRAY & LISTS)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+```javascript
+if (isAwesome){
+  return true
+}
+```
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
