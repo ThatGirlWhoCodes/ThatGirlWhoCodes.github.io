@@ -3,18 +3,16 @@
 ---
 
 ### Bio
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+Chicago based programmer and UX designer currently studying at Columbia College Chicago. A passionate, collaborative and driven teammate who is easily adaptable to different styles and environments.
+
 
 ---
 
-### Category Name 2
+### Contact
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+(708) 308 8294
+GiannaG_Dimperio@icloud.com
 
 ---
 
