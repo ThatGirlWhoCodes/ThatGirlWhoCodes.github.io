@@ -4,7 +4,7 @@
 
 **Project description:** A C# console application, assigned in Programming 101. The Mag. Mile: Zombie Apocalypse is a game located in the city of Chicago, IL where you (the user) is the vigilante attempting to save the city.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Custom Classes
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
@@ -14,7 +14,7 @@ if (isAwesome){
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Conditional Statements
 
 ```javascript
 if (isAwesome){
@@ -22,7 +22,7 @@ if (isAwesome){
 }
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Collection of Data ((DELETE BEFORE TURN IN) ARRAY & LISTS)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
