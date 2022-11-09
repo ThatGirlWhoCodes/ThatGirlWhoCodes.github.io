@@ -1,8 +1,8 @@
-### Word Guessing Game
+### Numeric Guessing Game
 
-## Word Guessing Game
+## Numeric Guessing Game
 
-**Project description:** Basic C# console application.
+**Project description:** 
 
 ### 1. Custom Classes
 
