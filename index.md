@@ -43,6 +43,16 @@ ___
 
 ---
 
+[Word Guessing Game](/Sample_page4)
+<img src="?raw=true"/>
+
+___
+
+[Another Game](/Sample_page5)
+<img src="?raw=true"/>
+
+___
+
 [Coming Soon](/Sample_page2)
 
 ___
