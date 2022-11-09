@@ -34,7 +34,7 @@ ___
 ### Projects
 
 [Adventure Game](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/TheMagnificentMileZombieApocolypse - Microsoft Visual Studio 11_8_2022 7_34_35?raw=true"/>
 
 ---
 
