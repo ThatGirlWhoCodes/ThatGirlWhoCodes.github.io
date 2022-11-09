@@ -39,7 +39,7 @@ ___
 ---
 
 [Mablib](/Sample_page3)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Make a Madlib! 11_8_2022 8_15_16 PM.png?raw=true"/>
 
 ---
 
