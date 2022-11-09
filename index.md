@@ -43,12 +43,12 @@ ___
 
 ---
 
-[Word Guessing Game](/Sample_page4)
+[Numeric Guessing Game](/Sample_page4)
 <img src="?raw=true"/>
 
 ___
 
-[Another Game](/Sample_page5)
+[C# Game](/Sample_page5)
 <img src="?raw=true"/>
 
 ___
