@@ -9,9 +9,8 @@
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 ```javascript
-if (isAwesome){
-  return true
-}
+Game.cs
+Program.cs
 ```
 
 ### 2. Conditional Statements
@@ -22,12 +21,10 @@ if (isAwesome){
 }
 ```
 
-### 3. Collection of Data ((DELETE BEFORE TURN IN) ARRAY & LISTS)
+### 3. Collection of Data
 
 ```javascript
-if (isAwesome){
-  return true
-}
+string[] Prompts = new string[] { "noun", "adjective", "adjective", "adjective", "occupation", "occupation", "occupation", "adjective", "noun", "noun" };
 ```
 
 ### 4. Provide a basis for further data collection through surveys or experiments
