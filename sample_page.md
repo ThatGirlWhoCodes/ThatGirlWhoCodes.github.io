@@ -9,24 +9,36 @@
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 ```javascript
-if (isAwesome){
-  return true
-}
+
+Program.cs
+Game.cs
+Item.cs
+Player.cs
+MethodOverload.cs
+Utility.cs
+
 ```
 
 ### 2. Conditional Statements
 
 ```javascript
-if (isAwesome){
-  return true
+ if (input == "a")
+  {
+    Console.WriteLine(PartTwo[1]);
+  }
+  else
+  {
+    Console.WriteLine(PartTwo[2]);
+  }
+  Console.WriteLine(PartTwo[3]);
 }
 ```
 
 ### 3. Collection of Data ((DELETE BEFORE TURN IN) ARRAY & LISTS)
 
 ```javascript
-if (isAwesome){
-  return true
+{
+static List<string> inventory = new List<string>();
 }
 ```
 
