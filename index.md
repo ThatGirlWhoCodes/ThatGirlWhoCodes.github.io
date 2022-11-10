@@ -49,7 +49,7 @@ ___
 ___
 
 [C# Game](/Sample_page5)
-<img src="PaintDrying.png?raw=true"/>
+<img src="images/PaintDrying.png?raw=true"/>
 
 ___
 
