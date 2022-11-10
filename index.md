@@ -49,7 +49,7 @@ ___
 ___
 
 [C# Game](/Sample_page5)
-<img src="Screenshot 11_9_2022 5_08_44 PM.png?raw=true"/>
+<img src="PaintDrying.png?raw=true"/>
 
 ___
 
