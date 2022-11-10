@@ -44,7 +44,6 @@ ___
 ---
 
 [Numeric Guessing Game](/Sample_page4)
-<img src="?raw=true"/>
 
 ___
 
