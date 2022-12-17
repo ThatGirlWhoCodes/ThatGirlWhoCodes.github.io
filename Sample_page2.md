@@ -1,6 +1,6 @@
-### Coming Soon
+### Detonation
 
-## Coming Soon
+## WPF/GUI Application
 
 **Project description:** 
 
