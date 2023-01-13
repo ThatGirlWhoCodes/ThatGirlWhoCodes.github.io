@@ -52,7 +52,7 @@ ___
 
 ___
 
-[Coming Soon](/Sample_page2)
+[Detonation](/Sample_page2)
 
 ___
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
