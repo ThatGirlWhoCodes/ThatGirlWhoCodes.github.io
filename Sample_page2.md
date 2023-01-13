@@ -64,9 +64,7 @@ else
 
 ### 3. Collection of Data
 
-
-```javascript
 <img src="DetonationHomePage.png?raw=true"/>
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
