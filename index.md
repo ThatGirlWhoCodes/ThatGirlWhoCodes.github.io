@@ -10,9 +10,9 @@ Chicago based programmer and UX designer currently studying at Columbia College 
 
 ### Skills
 
-Beginner Programmer; Programming Language(s): C#
+Beginner Programmer; Programming Language(s): C#, HTML, CSS
 
-Well-rounded experience in: Adobe, Microsoft 
+Well-rounded experience in: Adobe Creative Suite, Microsoft Office, Visual Studio
 
 ___
 
@@ -27,7 +27,7 @@ ___
 ### Contact
 
 - (708) 308 8294
-- GiannaG_Dimperio@icloud.com
+- GiannaG.Dimperio@gmail.com
 
 ---
 
